@@ -1,0 +1,11 @@
+@import "normalize.scss";
+@import "../config/fonts.scss";
+@import "../config/colors.scss";
+
+@import "../blocks/header.scss";
+@import "../blocks/hero.scss";
+@import "../blocks/section.scss";
+
+section {
+    margin-bottom: 2rem;
+}
